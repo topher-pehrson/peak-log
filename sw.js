@@ -53,4 +53,4 @@ self.addEventListener('fetch', (event) => {
   );
 });
 
-// build 1278b834d2b9
+// build 1f92b1f68ad7
